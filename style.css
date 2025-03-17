@@ -1,0 +1,33 @@
+html {
+  background-color: #00539F;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  padding: 0 20px 20px 20px;
+  margin: 0 auto;
+  width: 600px; /* 确切宽度+margin: 0 auto;会居中显示*/
+  background-color: #FF9500;
+  border: 5px solid black;
+}
+
+.imgs {
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+.titleTxt {
+  font-size: 60px;
+  text-align: center;
+  color: #00539F;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
